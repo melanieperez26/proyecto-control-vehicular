@@ -72,7 +72,10 @@
       </main>
   
       <footer>
+        <a href="https://github.com/melanieperez26" >
         <p>Hecho por Melanie Pérez Posligua</p>
+        <p>&copy; 2024 </p>
+        </a>
       </footer>
     </div>
 </template>
